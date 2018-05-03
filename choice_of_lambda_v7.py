@@ -1,8 +1,8 @@
 #-*-coding:utf8-*-
 
 import numpy as np
-from model_Polytomique_ordonne_v7 import ph, phprime, like, gradbet, quantif, lossFunction, draw1DGam
-from model_Polytomique_ordonne_v7 import lonepoly
+from ordinal_polychotomous_regression_v7 import ph, phprime, like, gradbet, quantif, lossFunction, draw1DGam
+from ordinal_polychotomous_regression_v7 import lonepoly
 #from quasi_original import lonepoly
 from random import *
 import time
